@@ -5,4 +5,4 @@ https://www.argon40.com/resources/argon-one-case-overview/
 
 
 Run from terminal:
-curl https://download.argon40.com/argon1.sh | bash
+<code>curl https://download.argon40.com/argon1.sh | bash</code>
